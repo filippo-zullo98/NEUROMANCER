@@ -1,4 +1,4 @@
 # Neuromancer: The Virtual FrontierSinossi
-
-## Author/developer: Filippo Zullo 
+## INFO
+Author/developer: Filippo Zullo 
  
